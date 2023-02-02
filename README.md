@@ -6,7 +6,7 @@
 ### <div align="center">I'm Vaibhav 👨‍💻, and I love technology. I'm also constantly interested in learning new things.</div>  
   
 
-- 🔭 I’m currently working on [StudyRecon](https://studyrecon.com/)  
+- 🔭 I’m currently working at Corizo Edutech as a Cloud Computing Intern. 
   
 
 - 🌱 I’m currently learning Virtualization with Kubernetes  
