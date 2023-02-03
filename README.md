@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at Corizo Edutech as a Cloud Computing Intern. 
   
 
-- 🌱 I’m currently learning Virtualization with Kubernetes  
+- 🌱 I’m currently learning Virtualization with Kubernetes.  
   
 
 - ❓ Ask me about anything related to AngularJS  and Backend technologies.  
